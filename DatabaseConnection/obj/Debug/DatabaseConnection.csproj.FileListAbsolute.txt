@@ -1,0 +1,12 @@
+E:\DotNet\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+E:\DotNet\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+E:\DotNet\DatabaseConnection\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+E:\DotNet\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csprojAssemblyReference.cache
+E:\DotNet\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.ItemUI.resources
+E:\DotNet\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.Properties.Resources.resources
+E:\DotNet\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.GenerateResource.cache
+E:\DotNet\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
+E:\DotNet\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+E:\DotNet\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
+E:\DotNet\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.CustomerUI.resources
+E:\DotNet\DatabaseConnection\DatabaseConnection\obj\Debug\DatabaseConnection.OrdersUI.resources
